@@ -10,7 +10,8 @@
  4. PHP Code: The PHP code connects to the database and stores the commands related to the robot's movements, allowing you to track recorded movements.
 
 <div>
- <img src="https://github.com/user-attachments/assets/a77110e2-b51b-4848-a8c4-ff368cc7a46b" width=500">
- <img src="https://github.com/user-attachments/assets/2b73f831-0163-416f-bc2c-d0b4b03aff10" width=500">
+ <img src="https://github.com/user-attachments/assets/e62d6fe7-e4bb-411c-9d91-0053acba142e" width=600">
+ <img src="https://github.com/user-attachments/assets/a77110e2-b51b-4848-a8c4-ff368cc7a46b" width=600">
+ <img src="https://github.com/user-attachments/assets/2b73f831-0163-416f-bc2c-d0b4b03aff10" width=600">
 </div>
 
