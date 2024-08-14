@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+ <html lang="en">
+     <head> 
+        <meta charset="UTF-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Robot Control Panel</title> 
+          <style>
+           body { font-family: Arial, sans-serif; 
+           text-align: center;
+            background-color: #f4f4f4;
+             }
+              h1 { 
+                color: #333;
+                 } 
+                 .controls { 
+                    margin-top: 50px;
+                     } 
+                     button {
+                         padding: 15px 30px;
+                          font-size: 18px; 
+                          margin: 10px;
+                           cursor: pointer; 
+                           background-color: #311596;
+                            color: white;
+                             border: none;
+                              border-radius: 5px; 
+                              transition: background-color 0.3s ease; 
+                              } 
+                              button:hover { 
+                                background-color: #311596;
+                                 } 
+                                 </style> 
+                                 </head> 
+                                 <body> 
+                                    
+                                    <h1>Robot Control Interface</h1>
+                                     <div class="controls">
+                                         <form method="POST" action="control.php"> 
+                                            <button type="submit" name="direction" value="forward">Forward</button><br> 
+                                            <button type="submit" name="direction" value="left">Left</button> 
+                                            <button type="submit" name="direction" value="stop">Stop</button>
+                                             <button type="submit" name="direction" value="right">Right</button><br>
+                                              <button type="submit" name="direction" value="backward">Backward</button>
+                                             </form> 
+                                            </div>
+                                         </body> 
+                                         </html>
