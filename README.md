@@ -1,5 +1,5 @@
 # Robot-Control-Interface
- this project is a simple web-based control interface for controlling a robot's movement directions and logging these movements into a MySQL database.
+### this project is a simple web-based control interface for controlling a robot's movement directions and logging these movements into a MySQL database.
 
  #### First: Download and install XAMPP, which includes Apache and MySQL, to run the project locally on your computer.
 #### 2. HTML: The HTML code provides a web interface that allows you to control the robot's movement directions (forward, backward, left, right, stop). The buttons in the interface send commands when clicked.
